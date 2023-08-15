@@ -4,11 +4,12 @@
 1. Business Background
    
 2. Dataset and Data Preprocessing
-- Import and Reading Data
-- Data Cleaning
+- Import and Check Data
+- Data Cleaning and Preparation
   - Deal with Null Value
-  - Outlier Observations
+  - Identify duplicates
   - Drop irrelevant columns and rows
+  - Outlier Observations
   
 3. Exploratory Data Analysis
 
