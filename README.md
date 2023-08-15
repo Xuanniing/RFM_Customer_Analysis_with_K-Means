@@ -1,7 +1,7 @@
 # Retail_Sales_Analysis_Customer_LTV
 
 ## Content:
-1. Business Problem
+1. Business Background
    
 2. Dataset and Data Preprocessing
 - Import and Reading Data
